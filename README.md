@@ -76,3 +76,14 @@ A API será iniciada em:
 👉 https://localhost:5001
 ou
 👉 http://localhost:5000
+
+OBS: Caso você rode com o IIS Express a api será iniciada em http://localhost:63237
+
+## 🧑‍💻 Autora
+
+Bruna Caroline
+Desenvolvedora .NET | Estudando Arquitetura de Software e Cloud AWS ☁️
+
+🔗 [LinkedIn](https://www.linkedin.com/in/bruna-caroline-silva/)
+
+🌐 [@protagonistatech](https://www.tiktok.com/@protagonista.tech)
