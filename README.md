@@ -1,7 +1,6 @@
 # 🧩 API CRUD Base — .NET 8  
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple?logo=dotnet)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/language-C%23-blue)
 ![Platform](https://img.shields.io/badge/platform-ASP.NET%20Core-lightgrey)
 
