@@ -40,6 +40,7 @@ Fornecer uma base sólida para:
 
 ## 🏗️ Estrutura do Projeto
 
+```bash
 /src
 ├── ApiCrud
 │ ├── Controllers
@@ -48,7 +49,7 @@ Fornecer uma base sólida para:
 │ │ └── Product.cs
 │ ├── Program.cs
 │ └── appsettings.json
-
+```
 
 - **ProductController.cs** → expõe os endpoints CRUD (Get, Post, Put, Delete)  
 - **Product.cs** → representa o modelo de produto com propriedades básicas (Id, Name, Price, etc.)  
